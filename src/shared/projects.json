@@ -1,0 +1,115 @@
+{
+  "data": [
+    {
+      "id": "1",
+      "name": "Microsoft Clone",
+      "createdAt": "2023-12-28T16:26:54Z",
+      "url": "https://github.com/vardhan-venkata/react-microsoft-tailwind-clone",
+      "demo_link":"https://vardhan-venkata.github.io/react-microsoft-tailwind-clone/",
+      "description": "🔥 The microsoft website cloned using react and tailwind.The website is the responsive as well.",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "HTML",
+          "iconifyClass": "logos-html-5"
+        },
+        {
+          "name": "CSS",
+          "iconifyClass": "logos-css-3"
+        },
+        {
+          "name": "JavaScript",
+          "iconifyClass": "logos-javascript"
+        },
+        {
+          "name": "React",
+          "iconifyClass": "simple-icons:docker"
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "name": "Weather Forecast",
+      "createdAt": "2023-12-23T20:41:33Z",
+      "url": "https://github.com/vardhan-venkata/react-weather-forecast",
+      "demo_link":"https://venkata-react-weather-forecast.netlify.app/",
+      "description": "💭This is a react weather forecast app, based on the locations. The locations also will be dynamic data with search funtionality. The weather data will be fetched dynamically based on the selected location. This app is responsive as well.",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "HTML",
+          "iconifyClass": "logos-html-5"
+        },
+        {
+          "name": "CSS",
+          "iconifyClass": "logos-css-3"
+        },
+        {
+          "name": "JavaScript",
+          "iconifyClass": "logos-javascript"
+        },
+        {
+          "name": "React",
+          "iconifyClass": "simple-icons:docker"
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "name": "React Todo App",
+      "createdAt": "2023-12-22T14:50:20Z",
+      "url": "https://github.com/vardhan-venkata/react-todo-app",
+      "demo_link":"https://vardhan-venkata.github.io/react-todo-app/",
+      "description": "🌀 Create a to-do list, with having filters for active and completed. Edit and delete the todo's",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "HTML",
+          "iconifyClass": "logos-html-5"
+        },
+        {
+          "name": "CSS",
+          "iconifyClass": "logos-css-3"
+        },
+        {
+          "name": "Shell",
+          "iconifyClass": "simple-icons:shell"
+        },
+        {
+          "name": "JavaScript",
+          "iconifyClass": "logos-javascript"
+        }
+      ]
+    },
+    {
+      "id": "4",
+      "name": "Audio Boss",
+      "createdAt": "2023-12-29T17:56:07Z",
+      "url": "https://github.com/vardhan-venkata/react-audio-boss",
+      "demo_link":"https://vardhan-venkata.github.io/react-audio-boss/",
+      "description": "🎧This is a audio boss app where we can see the headphones, speakers and audio devices.This is a kinda of audio e-commerce.",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "React",
+          "iconifyClass": "logos-python"
+        }
+      ]
+    },
+    {
+      "id": "4",
+      "name": "Simple Calculator",
+      "createdAt": "2023-12-27T06:36:41Z",
+      "url": "https://github.com/vardhan-venkata/react-simple-calculator",
+      "demo_link":"https://vardhan-venkata.github.io/react-simple-calculator/",
+      "description": "🚀This is a simple calculator app developed using react,chakra UI. This app is responsive and supoorts theming",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "JavaScript",
+          "iconifyClass": "logos-javascript"
+        }
+      ]
+    }
+  ]
+}
