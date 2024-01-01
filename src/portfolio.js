@@ -21,7 +21,6 @@ const seo = {
 const greeting = {
   title: "Front End Developer",
   logo_name: "VenkataMerapureddy",
-  // nickname: "layman_brother",
   subTitle:
     "A passionate individual who always thrives to work on end to end products which develop sustainable and scalable social and technical systems to create impact.",
   portfolio_repository: "https://github.com/vardhan-venkata/my-react-portfolio",
