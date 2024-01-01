@@ -29,6 +29,33 @@
     },
     {
       "id": "2",
+      "name": "Nike Clone",
+      "createdAt": "2023-12-28T16:26:54Z",
+      "url": "https://github.com/vardhan-venkata/nike-react-clone",
+      "demo_link":"https://venkata-nike-clone.netlify.app/",
+      "description": "🔥 The nike website cloned using react and chakra UI.It contains all features of an e-commerce project, placing order, payment, wishlisht,sign up, login and so many.The website is the responsive as well.",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "HTML",
+          "iconifyClass": "logos-html-5"
+        },
+        {
+          "name": "CSS",
+          "iconifyClass": "logos-css-3"
+        },
+        {
+          "name": "JavaScript",
+          "iconifyClass": "logos-javascript"
+        },
+        {
+          "name": "React",
+          "iconifyClass": "simple-icons:docker"
+        }
+      ]
+    },
+    {
+      "id": "3",
       "name": "Weather Forecast",
       "createdAt": "2023-12-23T20:41:33Z",
       "url": "https://github.com/vardhan-venkata/react-weather-forecast",
@@ -55,7 +82,7 @@
       ]
     },
     {
-      "id": "3",
+      "id": "4",
       "name": "React Todo App",
       "createdAt": "2023-12-22T14:50:20Z",
       "url": "https://github.com/vardhan-venkata/react-todo-app",
@@ -82,7 +109,7 @@
       ]
     },
     {
-      "id": "4",
+      "id": "5",
       "name": "Audio Boss",
       "createdAt": "2023-12-29T17:56:07Z",
       "url": "https://github.com/vardhan-venkata/react-audio-boss",
@@ -97,7 +124,7 @@
       ]
     },
     {
-      "id": "4",
+      "id": "6",
       "name": "Simple Calculator",
       "createdAt": "2023-12-27T06:36:41Z",
       "url": "https://github.com/vardhan-venkata/react-simple-calculator",
