@@ -25,11 +25,6 @@
   text-decoration: none;
 }
 
-.header li a:hover,
-.header .menu-btn:hover {
-  /* background-color: #A6E1FA; */
-}
-
 .header .logo {
   display: block;
   float: left;
@@ -39,7 +34,7 @@
   line-height: normal;
 }
 .header .logo-name {
-  font-family: "Agustina Regular";
+  /* font-family: "Agustina Regular"; */
   font-size: "45px";
   font-weight: bold;
   padding: 0 10px;
@@ -53,6 +48,7 @@
 }
 
 .header .menu {
+  display: block;
   clear: both;
   max-height: 0;
   transition: max-height 0.2s ease-out;
@@ -146,4 +142,14 @@
   .header {
     font-size: 12px;
   }
+}
+
+.headerTitle {
+  display: flex;
+}
+.headerTitleImage {
+  margin-top: 10px;
+  padding: 30px;
+  border: #868e96 solid;
+  border-radius: 20px;
 }
