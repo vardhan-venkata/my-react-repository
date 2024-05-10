@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/my-react-repository/static/css/main.d130a73c.css",
-    "main.js": "/my-react-repository/static/js/main.cad8329b.js",
+    "main.js": "/my-react-repository/static/js/main.43d4199d.js",
     "static/media/fa-solid-900.svg": "/my-react-repository/static/media/fa-solid-900.9fa614346b4e81decc62.svg",
     "static/media/fa-brands-400.svg": "/my-react-repository/static/media/fa-brands-400.6fcab609e2f62d5c3104.svg",
     "static/media/tiktok_logo.png": "/my-react-repository/static/media/tiktok_logo.bf41765c122d4b0f3fee.png",
@@ -58,10 +58,10 @@
     "static/media/talksCardBackAlt.svg": "/my-react-repository/static/media/talksCardBackAlt.018d87225926eee9ccc3.svg",
     "static/media/talksCardBack.svg": "/my-react-repository/static/media/talksCardBack.7dc8695e60efbc2baab8.svg",
     "main.d130a73c.css.map": "/my-react-repository/static/css/main.d130a73c.css.map",
-    "main.cad8329b.js.map": "/my-react-repository/static/js/main.cad8329b.js.map"
+    "main.43d4199d.js.map": "/my-react-repository/static/js/main.43d4199d.js.map"
   },
   "entrypoints": [
     "static/css/main.d130a73c.css",
-    "static/js/main.cad8329b.js"
+    "static/js/main.43d4199d.js"
   ]
 }
