@@ -11,7 +11,7 @@ import "./ContactComponent.css";
 import { greeting, contactPageData } from "../../portfolio.js";
 
 const ContactData = contactPageData.contactSection;
-const blogSection = contactPageData.blogSection;
+// const blogSection = contactPageData.blogSection;
 const addressSection = contactPageData.addressSection;
 const phoneSection = contactPageData.phoneSection;
 
@@ -50,7 +50,7 @@ class Contact extends Component {
                     text="See My Resume"
                     newTab={true}
                     href={
-                      "https://drive.google.com/file/d/1hVlth8VN5974l0Br1PWODk2Sc6mQZmbr/view?usp=drive_link"
+                      "https://drive.google.com/file/d/1giP8je5S9Mxx3BJBZzv_uEVfXPuJqvpy/view?usp=sharing"
                     }
                     theme={theme}
                   />
@@ -58,36 +58,36 @@ class Contact extends Component {
               </div>
             </div>
           </Fade>
-          <Fade bottom duration={1000} distance="40px">
+          {/* <Fade bottom duration={1000} distance="40px">
             <div className="blog-heading-div">
               <div className="blog-heading-text-div">
                 <h1 className="blog-heading-text" style={{ color: theme.text }}>
-                  {blogSection["title"]}
+                  {blogSection?.["title"]}
                 </h1>
                 <p
                   className="blog-header-detail-text subTitle"
                   style={{ color: theme.secondaryText }}
                 >
-                  {blogSection["subtitle"]}
+                  {blogSection?.["subtitle"]}
                 </p>
                 <div className="blogsite-btn-div">
                   <Button
                     text="Visit My Blogsite"
                     newTab={true}
-                    href={blogSection.link}
+                    href={blogSection?.link}
                     theme={theme}
                   />
                 </div>
               </div>
               <div className="blog-heading-img-div">
-                {/* <img
+                <img
 											src={require(`../../assests/images/${blogSection["avatar_image_path"]}`)}
 											alt=""
-										/> */}
+										/> 
                 <BlogsImg theme={theme} />
               </div>
             </div>
-          </Fade>
+          </Fade> */}
           <Fade bottom duration={1000} distance="40px">
             <div className="address-heading-div">
               <div className="contact-heading-img-div">
