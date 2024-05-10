@@ -19,9 +19,13 @@ export default class Main extends Component {
             render={(props) => <Home {...props} theme={this.props.theme} />}
           />
           <Route
+            path="//my-react-portfolio"
+            exact
+            render={(props) => <Home {...props} theme={this.props.theme} />}
+          />
+          <Route
             path="/home"
             exact
-            index
             render={(props) => <Home {...props} theme={this.props.theme} />}
           />
           <Route
