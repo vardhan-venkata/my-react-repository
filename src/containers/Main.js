@@ -13,8 +13,15 @@ export default class Main extends Component {
       <BrowserRouter>
         <Switch>
           <Route
+            path="/"
+            exact
+            index
+            render={(props) => <Home {...props} theme={this.props.theme} />}
+          />
+          <Route
             path="/home"
             exact
+            index
             render={(props) => <Home {...props} theme={this.props.theme} />}
           />
           <Route
